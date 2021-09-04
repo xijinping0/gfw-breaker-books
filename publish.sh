@@ -4,7 +4,7 @@
 git pull
 
 index=README.md
-base='https://cdn.jsdelivr.net/gh/easy2view/books/resources'
+base='http://192.248.146.163:10000/videos/books'
 
 ## README page
 cat > $index << EOF
@@ -37,7 +37,7 @@ while read line; do
 done < index.csv
 
 ## commit
-git add *
+#git add *
 git commit -m "ok"
 git push
 
