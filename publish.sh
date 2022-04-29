@@ -4,7 +4,7 @@
 git pull
 
 index=README.md
-base='http://192.248.146.163:10000/videos/books'
+base='http://78.141.195.254:10000/videos/books'
 
 ## README page
 cat > $index << EOF
