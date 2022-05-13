@@ -5,7 +5,7 @@
 
 | 书名 | 下载 | 下载 | 下载 |
 |---|---|---|---|
-| 《墓碑 – 中国六十年代大饥荒纪实》 | [TXT格式](http://78.141.195.254:10000/videos/books/grave-stone.txt) | [PDF格式](http://78.141.195.254:10000/videos/books/grave-stone.pdf) | [EPUB格式](http://78.141.195.254:10000/videos/books/grave-stone.epub) |
+| 《墓碑 – 中国六十年代大饥荒纪实》 | [TXT格式](http://78.141.195.254:10000/videos/books/gravestone.txt) | [PDF格式](http://78.141.195.254:10000/videos/books/gravestone.pdf) | [EPUB格式](http://78.141.195.254:10000/videos/books/gravestone.epub) |
 | 《历史的先声 – 半个世纪前的庄严承诺》 | [TXT格式](http://78.141.195.254:10000/videos/books/lsxs.txt) | [PDF格式](http://78.141.195.254:10000/videos/books/lsxs.pdf) | - |
 | 《赵紫阳：改革历程》 | [TXT格式](http://78.141.195.254:10000/videos/books/zzy_gglc.txt) | [PDF格式](http://78.141.195.254:10000/videos/books/zzy_gglc.pdf) | - |
 | 《九评共产党》 | [TXT格式](http://78.141.195.254:10000/videos/books/9ping.txt) | [PDF格式](http://78.141.195.254:10000/videos/books/9ping.pdf) | [EPUB格式](http://78.141.195.254:10000/videos/books/9ping.epub) |
