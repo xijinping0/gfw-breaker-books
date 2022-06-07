@@ -29,3 +29,5 @@
 | 《辛灏年：谁是新中国 — 中国现代史辨》 | - | [PDF格式](http://78.141.195.254:10000/videos/books/newchina.pdf) | - |
 | 《毛泽东私人医生回忆录》 | [TXT格式](http://78.141.195.254:10000/videos/books/mzdyshyl.txt) | [PDF格式](http://78.141.195.254:10000/videos/books/mzdyshyl.pdf) | - |
 | 《江泽民其人》 | [TXT格式](http://78.141.195.254:10000/videos/books/jzm.txt) | [PDF格式](http://78.141.195.254:10000/videos/books/jzm.pdf) | [EPUB格式](http://78.141.195.254:10000/videos/books/jzm.epub) |
+
+#### >>> &nbsp;&nbsp;[书籍分类下载](http://78.141.195.254:10000/bbooks/) &nbsp;&nbsp;|&nbsp;&nbsp; [视频分类下载](http://78.141.195.254:10000//bbooks/99.视频下载)
